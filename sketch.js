@@ -17,7 +17,7 @@ function setup() {
   vid_0.mouseOut(pauseVid_0);
 
   // dophin vid 2!
-  vid_1 = createVideo(['assets/dolphins_1.mp4', 'assets/dolphins_1.webm']);;
+  vid_1 = createVideo(['assets/sec.mp4']);;
   vid_1.size(400, 300);
 
   vid_1.mouseOver(playVid_1);
