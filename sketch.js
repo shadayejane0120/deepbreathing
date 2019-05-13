@@ -10,7 +10,7 @@ let documentActive = false; // we need to make sure they engage with page before
 
 function setup() {
   // dophin vid 1!
-  vid_0 = createVideo(['assets/dolphins_0.mp4', 'assets/dolphins_0.webm']);;
+  vid_0 = createVideo(['assets/fisher_1.mp4']);;
   vid_0.size(400, 300);
 
   vid_0.mouseOver(playVid_0);
